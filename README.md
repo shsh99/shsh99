@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  📝 I regularly write articles on <a href="https://shins99.tistory.com/" target="_blank" rel="noreferrer">https://soaked.tistory.com/</a>
+  📝 I regularly write articles on <a href="https://shins99.tistory.com/" target="_blank" rel="noreferrer">https://shins99.tistory.com/</a>
 </p>
 
 <p align="center">
