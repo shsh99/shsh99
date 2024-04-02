@@ -9,7 +9,8 @@
 <br/>
 <p align="center">
   📝 Blog <a href="https://shins99.tistory.com/" target="_blank" rel="noreferrer">https://shins99.tistory.com/</a>
-  📝 Blog <a href="  https://velog.io/@shin99/posts/" target="_blank" rel="noreferrer">https://velog.io/@shin99/posts/</a>
+  <br>
+  📝 Blog <a href="https://velog.io/@shin99/" target="_blank" rel="noreferrer">https://velog.io/@shin99/posts/</a>
 
 </p>
 
