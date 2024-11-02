@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  📫 Email <strong>ggg9905@naver.com</strong>
+  📫 Email <strong> ggg9905@naver.com</strong>
 </p>
 <br/>
 
