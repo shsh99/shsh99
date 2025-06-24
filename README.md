@@ -2,14 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=DongGu%20Shin%20GitHub&fontSize=60&fontColor=ffffff)
 
-<!-- 간단한 소개 -->
-<h2 align="center" style="color:white;">👋 Hello! I'm DongGu Shin</h2>
-<p align="center">
-  <span style="color:white;">Backend Developer using Java & Spring</span><br/>
-  <span style="color:white;">Learning SQL, Spring Security, Redis</span>
-</p>
 
----
 
 <!-- 기술 스택 -->
 <h2 align="center">🛠 Tech Stack</h2>
