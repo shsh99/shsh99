@@ -31,8 +31,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shsh99&show_icons=true&theme=light" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shsh99&theme=light" />
+  
 </p>
 
 
