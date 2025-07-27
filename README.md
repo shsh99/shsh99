@@ -6,24 +6,27 @@
 
 <!-- 기술 스택 -->
 <h2 align="center">🛠 Tech Stack</h2>
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <br/><br/>
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <br/><br/>
 
-  <!-- Database & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+<div style="margin: ; text-align: center;">
+  <h4> :blossom: 자주 사용하는 기술</h4>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringSecurity-2AC89F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-17219A?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/QueryDSL-8A084B?style=for-the-badge&logo=QueryDSL&logoColor=white">        
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">        
+  
+</div>
+  <br>
+<div style="margin: ; text-align: center;">
+<h4> :seedling: 사용해본 기술</h4>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/react-17219A?style=for-the-badge&logo=react&logoColor=white">          
+  <img src="https://img.shields.io/badge/Redis-FE2E2E?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-17219A?style=for-the-badge&logo=Docker&logoColor=white">
+</div>
 
 
 
