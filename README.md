@@ -49,17 +49,19 @@
 
 [![MZC-LMS](https://img.shields.io/badge/MZC--LMS-멀티테넌트_SaaS_LMS-000000?style=flat-square)](https://github.com/shsh99/MZC-LMS)
 &nbsp;
-[![찜꽁플랜](https://img.shields.io/badge/찜꽁플랜-회식_예약_플랫폼-000000?style=flat-square)](https://github.com/zzimccong)
-&nbsp;
 [![취업로켓](https://img.shields.io/badge/취업로켓-취업_준비_플랫폼-000000?style=flat-square)](https://github.com/employment-rocket)
+&nbsp;
+[![찜꽁플랜](https://img.shields.io/badge/찜꽁플랜-회식_예약_플랫폼-000000?style=flat-square)](https://github.com/zzimccong)
+
 
 <br>
 
 |프로젝트|설명|핵심 기술|
 |:---|:---|:---|
 |[**MZC-LMS**](https://github.com/shsh99/MZC-LMS)|B2C/B2B 멀티테넌트 SaaS LMS|`Spring Boot` `React` `AWS` `JWT`|
-|[**찜꽁플랜**](https://github.com/zzimccong)|회식 예약 및 추첨 플랫폼|`Spring Boot` `Redis` `분산락`|
 |[**취업로켓**](https://github.com/employment-rocket)|자소서/이력서 관리 플랫폼|`Spring Boot` `MongoDB` `MySQL`|
+|[**찜꽁플랜**](https://github.com/zzimccong)|회식 예약 및 추첨 플랫폼|`Spring Boot` `Redis` `분산락`|
+
 
 </div>
 
