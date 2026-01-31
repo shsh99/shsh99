@@ -5,7 +5,7 @@
 
 <br>
 
-**`Backend Developer`** · **`System Architect`**
+**`Backend Developer`** · **`Web Developer`**
 
 <br>
 
