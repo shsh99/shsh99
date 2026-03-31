@@ -55,7 +55,7 @@
 
 |프로젝트|설명|핵심 기술|
 |:---|:---|:---|
-|[**PromptBuilder Agent**](https://github.com/shsh99/PromptAgent)|프롬프트 생성 → 개선 → 비교까지 가능한 AI 프롬프트 최적화 플랫폼<br/>🔗 https://promptbuilder-df6.pages.dev/|LLM · React · Cloudflare D1 · Prompt Engineering|
+|[**PromptBuilder Agent**](https://github.com/shsh99/PromptAgent)|[프롬프트 생성 → 개선 → 비교까지 가능한 AI 프롬프트 최적화 플랫폼](https://promptbuilder-df6.pages.dev/) |LLM · React · Cloudflare D1 · Prompt Engineering|
 |[**MZC-LMS**](https://github.com/shsh99/MZC-LMS)|B2C/B2B 멀티테넌트 SaaS LMS|Spring Boot · React · AWS · LLM|
 |[**취업로켓**](https://github.com/employment-rocket)|자소서/이력서 관리 플랫폼|Spring Boot · MongoDB · MySQL|
 |[**찜꽁플랜**](https://github.com/zzimccong)|회식 예약 및 추첨 플랫폼|Spring Boot · Redis · 분산락|
